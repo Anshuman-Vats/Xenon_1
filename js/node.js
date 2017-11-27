@@ -1,1 +1,3 @@
-console.log("x");
+fucntion soaan{
+  var x = getElementById('id')
+}
